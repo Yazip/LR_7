@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/github/Yazip/LR3/Author.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/github/Yazip/LR3/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/github/Yazip/LR3/Genre.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/github/Yazip/LR3/Magazine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/github/Yazip/LR3/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/github/Yazip/LR3/Publisher.java" charset="UTF-8" />
+  </component>
+</project>
